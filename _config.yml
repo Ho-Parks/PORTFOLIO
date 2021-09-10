@@ -1,21 +1,27 @@
-title: Abhishek Nagekar
-description: Web & Security Engineer
-site_title: '@abhn - Abhishek Nagekar'
+title: Inho Park
+description: Developer
+site_title: 'Inho Park'
 
 # Build settings
 markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
-blog_url: https://www.nagekar.com
-email: abhishek@nagekar.com
-keybase_username: abhn
-twitter_username: abhn_
-reddit_username: abhn
+github_username: Ho-Parks
+blog_url: https://1n-h0.notion.site/STUDY-c049e2165746447da8ae393406df53a9
+email: ebusinho@gmail.com
+keybase_username: 박인호
+twitter_username:
+reddit_username:
 
 # absolute or relative
 profile_picture: assets/images/pp.jpg
 
 # Google Analytics ID
-google_analytics: 
+google_analytics:
+
+remote_theme : abhn/portfolio
+
+# Site Settings
+url                      : "https://Ho-Parks.github.io" # the base hostname & protocol for your site e.g. "https://abhn.github.io/portfolio"
+baseurl                  : "/portfolio" # the subpath of your site, e.g. "/blog"
